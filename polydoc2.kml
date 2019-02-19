@@ -1,0 +1,37 @@
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Style id="z1">
+<IconStyle>
+<Icon>
+<href>
+http://www.google.com/intl/en_us/mapfiles/ms/micons/blue-dot.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Placemark>
+<visibility>0</visibility>
+<styleUrl>#transRedPoly</styleUrl>
+<Polygon>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates> 
+-118.2815,34.026991,0
+-118.2813,34.023751,0
+-118.283452,34.025237,0
+-118.285755,34.025182,0
+-118.287400,34.025198,0
+-118.284510,34.034569,0
+-118.275447,34.030667,0
+-118.275,34.0282,0
+-118.274076,34.027872,0
+-118.2815,34.026991,0
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+</Document>
+</kml>
